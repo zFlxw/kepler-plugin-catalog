@@ -7,7 +7,9 @@
 			"name": "Their Time",
 			"featured": true,
 			"verified": true,
-			"categories": ["productivity"]
+			"categories": [
+				"productivity"
+			]
 		},
 		{
 			"package": "@kepler-app/klack-plugin",
@@ -15,7 +17,18 @@
 			"featured": true,
 			"verified": true,
 			"icon": "https://raw.githubusercontent.com/orbiq-one/kepler-plugin-klack/main/assets/icon.png",
-			"categories": ["utility"]
+			"categories": [
+				"utility"
+			]
+		},
+		{
+			"package": "@zflxw/kepler-dictionary",
+			"name": "Dictionary",
+			"featured": true,
+			"verified": true,
+			"categories": [
+				"utility"
+			]
 		}
 	]
 }
